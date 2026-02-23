@@ -1,3 +1,10 @@
+/*
+Lesson: Intro to Booleans
+Author: Jim Li
+Date Created: Feb. 20, 2026
+Date Last Modified: Feb. 23, 2026
+*/
+
 import java.util.Scanner;
 public class PracticeProblem {
 
